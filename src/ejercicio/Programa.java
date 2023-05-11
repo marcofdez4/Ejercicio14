@@ -38,6 +38,8 @@ public class Programa {
 				bw.write("\ngenero: "+a.getGenero());
 				bw.write("\nnumero de reproducciones: "+a.getNumeroReproducciones());
 				bw.write("\npais mas escuchado: "+a.getPaisMasEscucha());
+				bw.write("\nRecaudación monetaria: "+a.recaudacionMontetaria());
+				bw.write("\nProyeccion anual: "+a.proyeccionAnual());
 				bw.write("\n--------------------------------------------------");
 			}
 			Scanner sc = new Scanner(System.in);
@@ -59,6 +61,8 @@ public class Programa {
 					bw.write("\ngenero: "+addArtist.getGenero());
 					bw.write("\nnumero de reproducciones: "+addArtist.getNumeroReproducciones());
 					bw.write("\npais mas escuchado: "+addArtist.getPaisMasEscucha());
+					bw.write("\nRecaudación monetaria: "+addArtist.recaudacionMontetaria());
+					bw.write("\nProyeccion anual: "+addArtist.proyeccionAnual());
 					bw.write("\n--------------------------------------------------");
 					artistas.add(addArtist); 
 					break;

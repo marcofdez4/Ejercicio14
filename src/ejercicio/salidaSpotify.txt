@@ -5,19 +5,27 @@ Nombre del artista: Slayer
 genero: Metal
 numero de reproducciones: 50000
 pais mas escuchado: Venezuela
+Recaudación monetaria: 10000.0
+Proyeccion anual: 120000.0
 --------------------------------------------------
 Nombre del artista: Green day
 genero: Rock alternativo
 numero de reproducciones: 100200
 pais mas escuchado: California
+Recaudación monetaria: 20040.0
+Proyeccion anual: 240480.0
 --------------------------------------------------
 Nombre del artista: Motorhead
 genero: Rock & roll
 numero de reproducciones: 9999999
 pais mas escuchado: Inglaterra
+Recaudación monetaria: 1999999.8
+Proyeccion anual: 2.39999976E7
 --------------------------------------------------
 Nombre del artista: michael jackson
 genero: pop
-numero de reproducciones: 1000022222
-pais mas escuchado: latino
+numero de reproducciones: 121212121
+pais mas escuchado: latinoamerica
+Recaudación monetaria: 2.4242424200000003E7
+Proyeccion anual: 2.9090909040000004E8
 --------------------------------------------------
