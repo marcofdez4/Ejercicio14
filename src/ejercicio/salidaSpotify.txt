@@ -1,0 +1,23 @@
+PROGRAMA DE SPOTIFY
+
+
+Nombre del artista: Slayer
+genero: Metal
+numero de reproducciones: 50000
+pais mas escuchado: Venezuela
+--------------------------------------------------
+Nombre del artista: Green day
+genero: Rock alternativo
+numero de reproducciones: 100200
+pais mas escuchado: California
+--------------------------------------------------
+Nombre del artista: Motorhead
+genero: Rock & roll
+numero de reproducciones: 9999999
+pais mas escuchado: Inglaterra
+--------------------------------------------------
+Nombre del artista: michael jackson
+genero: pop
+numero de reproducciones: 1000022222
+pais mas escuchado: latino
+--------------------------------------------------
